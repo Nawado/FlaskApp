@@ -1,0 +1,15 @@
+.env
+.flaskenv
+*.pyc
+*.pyo
+env/
+venv/
+dist/
+*.log
+build/
+*.egg
+*.egg-info/
+.cache/
+.pytest_cache/
+.vscode
+__pycache__
